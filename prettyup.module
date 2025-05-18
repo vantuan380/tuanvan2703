@@ -1,0 +1,12 @@
+#!url=https://Vantuan2703 x/module/prettyup.module
+#!name=PrettyUp💤.Mudule
+#!desc= By: ѵăռŧυấռ 💤
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/prettyup.png
+#!homepage=https://Vantuan2703 x
+#!author=89996462
+
+[Script]
+PrettyUp=type=http-response,pattern=^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt,requires-body=1,script-path=https://raw.githubusercontent.com/89996462/Quantumult-X/main/ycdz/upp.js
+
+[MITM]
+hostname = %APPEND% buy.itunes.apple.com
