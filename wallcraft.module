@@ -1,0 +1,12 @@
+#!url=https:/Vantuan2703 x/module/wallcraft.module
+#!name=WallCraft 💤.Mudule
+#!desc= By: ѵăռŧυấռ 💤
+#!homepage=https:/Vantuan2703 x
+#!author=yqc007
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/wallcraft.png
+
+[MITM]
+hostname = %APPEND% *.wallpaperscraft.com
+
+[Script]
+WallCraft=type=http-response,pattern=^https?:\/\/billing-ios\.wallpaperscraft\.com\/verify_receipt\/remove_ads$,script-path=https://raw.githubusercontent.com/yqc007/QuantumultX/master/WallCraftFProCrack.js,requires-body=1
